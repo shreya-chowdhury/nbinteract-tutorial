@@ -1,0 +1,43 @@
+[I 21:29:06.265 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 2021-08-09 21:29:07.055 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-08-09 21:29:07.055 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-08-09 21:29:07.055 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-08-09 21:29:07.055 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-08-09 21:29:07.056 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-08-09 21:29:07.056 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-08-09 21:29:07.056 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-08-09 21:29:07.056 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-08-09 21:29:07.056 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-08-09 21:29:07.056 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-08-09 21:29:07.056 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-08-09 21:29:07.056 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-08-09 21:29:07.066 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-08-09 21:29:07.066 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 21:29:07.075 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 21:29:07.077 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 21:29:07.078 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 21:29:07.078 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 21:29:07.078 NotebookApp] http://jupyter-shreya-2dchowdhur-2dteract-2dtutorial-2d4nv88wsm:8888/binder/jupyter/user/shreya-chowdhur-teract-tutorial-4nv88wsm/?token=...
+[I 21:29:07.078 NotebookApp]  or http://127.0.0.1:8888/binder/jupyter/user/shreya-chowdhur-teract-tutorial-4nv88wsm/?token=...
+[I 21:29:07.078 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 21:29:07.082 NotebookApp] No web browser found: could not locate runnable browser.
+[I 21:29:07.112 NotebookApp] 302 GET /binder/jupyter/user/shreya-chowdhur-teract-tutorial-4nv88wsm/ (10.244.90.11) 1.660000ms
+[I 21:29:08.357 NotebookApp] 302 GET /binder/jupyter/user/shreya-chowdhur-teract-tutorial-4nv88wsm/?token=jFjqf9X9RPCpIr1wS9Juxw (64.119.81.231) 1.450000ms
+[I 21:29:26.523 NotebookApp] Uploading file to /monthly_uptime_data (1).csv
+[I 21:29:27.825 NotebookApp] Uploading file to /Demo1.ipynb
+[W 21:29:27.832 NotebookApp] Notebook Demo1.ipynb is not trusted
+[I 21:29:31.672 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[W 21:29:31.673 NotebookApp] Notebook Demo1.ipynb is not trusted
+[I 21:29:31.924 NotebookApp] Kernel started: a42770d0-7a97-441f-ba1a-16b5cdeba0b9, name: python3
+[I 21:29:31.925 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 21:29:31.925 NotebookApp] Culling kernels even with connected clients
+[I 21:29:37.189 NotebookApp] Starting buffering for a42770d0-7a97-441f-ba1a-16b5cdeba0b9:d96c9e1316f64b7886baf445f607b484
+[I 21:29:37.405 NotebookApp] Kernel restarted: a42770d0-7a97-441f-ba1a-16b5cdeba0b9
+[I 21:29:37.718 NotebookApp] Restoring connection for a42770d0-7a97-441f-ba1a-16b5cdeba0b9:d96c9e1316f64b7886baf445f607b484
+[I 21:29:37.910 NotebookApp] Replaying 3 buffered messages
+[I 21:29:57.551 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 21:31:32.584 NotebookApp] Saving file at /Demo1.ipynb
+[W 21:32:42.438 NotebookApp] 404 GET /binder/jupyter/user/shreya-chowdhur-teract-tutorial-4nv88wsm/static/jupyter-matplotlib.js?v=20210809212906 (64.119.81.231) 16.070000ms referer=https://notebooks.gesis.org/binder/jupyter/user/shreya-chowdhur-teract-tutorial-4nv88wsm/notebooks/Demo1.ipynb
+[I 21:33:31.984 NotebookApp] Saving file at /Demo1.ipynb
