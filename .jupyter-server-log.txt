@@ -41,3 +41,13 @@ TermSocket.open: Opened 1
 [I 21:31:32.584 NotebookApp] Saving file at /Demo1.ipynb
 [W 21:32:42.438 NotebookApp] 404 GET /binder/jupyter/user/shreya-chowdhur-teract-tutorial-4nv88wsm/static/jupyter-matplotlib.js?v=20210809212906 (64.119.81.231) 16.070000ms referer=https://notebooks.gesis.org/binder/jupyter/user/shreya-chowdhur-teract-tutorial-4nv88wsm/notebooks/Demo1.ipynb
 [I 21:33:31.984 NotebookApp] Saving file at /Demo1.ipynb
+[I 21:38:57.961 NotebookApp] Starting buffering for a42770d0-7a97-441f-ba1a-16b5cdeba0b9:d96c9e1316f64b7886baf445f607b484
+[I 21:38:58.480 NotebookApp] Kernel restarted: a42770d0-7a97-441f-ba1a-16b5cdeba0b9
+[I 21:38:58.797 NotebookApp] Restoring connection for a42770d0-7a97-441f-ba1a-16b5cdeba0b9:d96c9e1316f64b7886baf445f607b484
+[I 21:38:59.307 NotebookApp] Replaying 5 buffered messages
+[I 21:39:32.770 NotebookApp] Saving file at /tutorial.ipynb
+[I 21:39:36.915 NotebookApp] Starting buffering for a42770d0-7a97-441f-ba1a-16b5cdeba0b9:d96c9e1316f64b7886baf445f607b484
+[I 21:39:46.844 NotebookApp] Starting buffering for a42770d0-7a97-441f-ba1a-16b5cdeba0b9:83435f2122214b5da30199829d55b339
+[I 21:39:47.268 NotebookApp] Kernel restarted: a42770d0-7a97-441f-ba1a-16b5cdeba0b9
+[I 21:39:47.696 NotebookApp] Restoring connection for a42770d0-7a97-441f-ba1a-16b5cdeba0b9:83435f2122214b5da30199829d55b339
+[I 21:39:47.808 NotebookApp] Replaying 5 buffered messages
